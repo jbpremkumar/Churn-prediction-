@@ -1,0 +1,17 @@
+**CHURN PREDICTION WEBAPP**'
+E-Commerce Dataset - Dataset for the churn model
+E-commerce customer churn prediction - This is a .ipynb file which has the churn model
+churn_pred - this is a .py file the web app is created in this file using streamlit.
+
+
+step 1 - upload the dataset into the jupyter notebook.
+step 2 - Run the .ipynb in the jupyter notebook.
+	 Now, the .ipynb file saves the model into your local system.
+	(Saves in the path of the jupyter notebook path)
+step 3 - Run the .py file in the Visual studio. 
+step 4 - Run the command line in the terminal that is displayed after running the .py file.
+	  
+** if you are using streamlit for first time then it asks for gmail for login while running the command line in the terminal.**
+** Do no run or convert the .py file to .ipynb it will thorw error in streamlit line.** 
+
+I have also added the visualization file for the dataset in power bi.
